@@ -1,4 +1,4 @@
-module todo-list/rest-api
+module github.com/DefinitelyNotSimon13/go-rest-api
 
 go 1.22.4
 
